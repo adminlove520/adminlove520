@@ -7,7 +7,7 @@
 </h1>
 
 Welcome to my GitHub profile! 
-
+![](https://visitor-badge.glitch.me/badge?page_id=adminlove520)
 
 ## 🏆 My GitHub Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adminlove520&theme=dark&hide_border=true)](https://git.io/streak-stats)
