@@ -1,16 +1,26 @@
-### Hi there 👋
-
-<!--
-**adminlove520/adminlove520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+/////////////////////////////////////////////
+                   ^                       //
+                  / \                      //
+                 {   }                     //
+                 ; : ;                     //
+                 | : |                     //
+                 l ; l                     //
+                 l ; l                     //
+                 I ; I                     //
+                 I ; I                     //
+                 d | b                     //
+                 d | b                     //
+                 H | H                     //
+                 H I H                     //
+        ,;,      H I H      ,;,            //
+       ;H@H;     ;_H_;,    ;H@H;           //
+       `\\Y/d_,;|4H@HK|;,_b\Y//`           //
+        \'\\;MMMMM$@$MMMMM;//'/            //
+          \'~~~*;!8@8!;*~~~'/              //
+                 ;888;                     //
+                 ;888;                     //
+                 O8@8O                     //
+                 T808T                     //
+                  `~`                      //
+         大宝剑  斩error 伏Bug              //
+/////////////////////////////////////////////
